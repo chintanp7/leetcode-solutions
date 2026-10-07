@@ -70,7 +70,7 @@ public class MatrixZero73 {
                 }
             }
         }
-
         System.out.println(matrix);
+        System.out.println("matrix power is low");
     }
 }
